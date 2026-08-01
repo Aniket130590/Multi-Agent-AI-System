@@ -18,4 +18,3 @@ conda activate travel
 pip install requiremnts.txt
 
 
-postgresql://aniket:XMRXPmW0efKLx7iZ60NJVNOvNEMrcIMW@dpg-d9n129oae00c73alaldg-a.oregon-postgres.render.com/agent_j97f
